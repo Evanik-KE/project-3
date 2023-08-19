@@ -190,5 +190,28 @@ body{
     padding-left: 80px;
     transform: translate(8%, -72%);
 }
+.contact-us{
+    padding: 20px 0;
+    background-color: #FFD77C;
+    align-items: center;
+    justify-content: center;
+}
+.contact-us h1{
+    padding-top: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+#us{
+    color: #6CB840;
+}
+
+.contact-par{
+    font-size: 15px;
+    line-height: 1.6em;
+    padding: 0 30%;
+    padding-top: 20px;
+    text-align: center;
+}
+
 
 
