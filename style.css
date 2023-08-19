@@ -144,4 +144,51 @@ body{
     font-size: 15px; 
     padding-left: 80px; 
     line-height: 1.3em;
+    text-align: center;
 }
+
+.hot-deals{
+    padding: 20px 0;
+    background-color: #cbfbb0;
+}
+
+.hot-deals h1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.deals-par{
+    padding-left: 60%;
+    padding-top: 20px;
+}
+
+.deals-par h2{
+    color: #6CB840;
+}
+.deals-par h3{
+    padding-top: 10px;
+}
+.deals-par p{
+    padding-top: 10px;
+    width: 70%;
+    text-align: center;
+    line-height: 1.4em;
+}
+
+#deals{
+    color: #6CB840;
+}
+
+.juice img{
+    padding-left: 50px;
+    position: absolute;
+    transform: translate(10%, -93%);
+}
+
+.burger img{
+    position: absolute;
+    padding-left: 80px;
+    transform: translate(8%, -72%);
+}
+
+
