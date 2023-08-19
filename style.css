@@ -26,3 +26,39 @@ body{
     align-items: center;
     z-index: 99;
 }
+.content{
+    margin: 15px 35px;
+    max-width: 30%;
+}
+.content h1{
+    padding: 10px 0;
+    font-size: 30px;
+    color: #6CB840;
+}
+#food{
+    color: #EAAB1B;
+}
+.content h2{
+    font-size: 25px;
+}
+.content p{
+    font-size: 15px;
+    padding: 10px 0;
+    line-height: 1.4em;
+}
+
+.btn{
+    padding: 10px 0;
+    width: 100px;
+    height: 30px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #6CB840;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 12px;
+}
