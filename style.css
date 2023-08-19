@@ -13,3 +13,16 @@ body{
     background-color: rgb(226, 223, 223);
     height: 250px;
 }
+.navbar a{
+    position: relative;
+    top: 0;
+    left: 0;
+    font-size: 12px;
+    display: inline-flex;
+    margin: 35px 50px;
+    color: black;
+    text-decoration: none;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 99;
+}
