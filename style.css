@@ -250,3 +250,55 @@ input{
     font-weight: bold;
 }
 
+.bottom{
+    margin: 30px 110px;
+    padding: 50px 0;
+    background-color: #C9ECB5;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.date{
+    margin: 0 20px;
+    padding-right: 50px;
+    border-right: dashed;
+}
+.date h6, .box h6, .follow h6{
+    font-size: 14px;
+}
+.date p, .box p, .follow p{
+    font-size: 12px;
+}
+.box{
+    margin: 0 50px;
+    padding-right: 100px;
+    padding-left: 10px;
+}
+
+.follow{
+    margin: 0 50px;
+    padding-left: 80px;
+    padding-right: 10px;
+}
+.social{
+    margin-right: 10px;
+}
+
+.social img{
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+#send-1{
+    width: 80px;
+    height: 30px;
+    outline: none;
+    border: none;
+    background-color: #6CB840;
+    color: white;
+}
+
+
