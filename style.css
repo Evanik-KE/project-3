@@ -62,3 +62,34 @@ body{
     font-weight: bold;
     font-size: 12px;
 }
+.eat-together{
+    margin: 90px 35px;
+    padding-top: 50px;
+    display: flex;
+}
+#eat-content{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#eat-content h1{
+    padding-top: 100px;
+    font-size: 30px;
+    padding-bottom: 10px;
+    color: #EAAB1B;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+#eat-content p{
+    font-size: 15px;
+    line-height: 1.5em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 300px;
+}
