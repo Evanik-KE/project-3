@@ -344,12 +344,12 @@ input{
 }
 
 .date{
-    margin: 0 20px;
-    padding-right: 50px;
+    margin: 0 10px;
+    padding-right: 40px;
     border-right: dashed;
 }
 .date h6, .box h6, .follow h6{
-    font-size: 14px;
+    font-size: 11px;
 }
 .date p, .box p, .follow p{
     font-size: 12px;
@@ -357,7 +357,7 @@ input{
 .box{
     margin: 0 50px;
     padding-right: 100px;
-    padding-left: 10px;
+  
 }
 
 .follow{
